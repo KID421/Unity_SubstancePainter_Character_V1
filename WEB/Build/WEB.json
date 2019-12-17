@@ -1,0 +1,16 @@
+{
+"companyName": "KID",
+"productName": "SubstancePainter 展示",
+"productVersion": "0.1",
+"dataUrl": "WEB.data.unityweb",
+"wasmCodeUrl": "WEB.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEB.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.16f1"
+}
