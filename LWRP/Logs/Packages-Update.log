@@ -45,3 +45,13 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
+
+=== Tue Dec 24 14:32:46 2019
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.cinemachine@2.3.4
+  com.unity.postprocessing@2.1.7
+  com.unity.recorder@2.0.3-preview.1
